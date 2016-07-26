@@ -36,7 +36,7 @@ gs.addInfoMessage("Sample BR has run");
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-26 12:17:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4f9050e64fb02200c18db4a18110c76a</sys_id>
